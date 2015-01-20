@@ -263,6 +263,9 @@ a:focus {
     background-size: cover;
     -o-background-size: cover;
 }
+.self-portait{
+    border:3px solid #FFFFFF;
+}
 
 #map {
     width: 100%;
