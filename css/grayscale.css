@@ -266,6 +266,8 @@ a:focus {
 .self-portrait{
     padding: 3px;
     border: 5px solid #ffffff;
+    height: 100px;
+    width: 100px;
 }
 
 #map {
