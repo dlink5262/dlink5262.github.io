@@ -265,6 +265,8 @@ a:focus {
 }
 .self-portrait{
     padding: 3px;
+    width:300px;
+    height:300px;
     border: 5px solid #ffffff;
     ;
 }
